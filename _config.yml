@@ -13,7 +13,7 @@ name                     : "Oliver Hoffmann"
 description              : "Demokratie in Österreich"
 url                      : "https://www.keine.online"
 baseurl                  : "/"
-logo                      : /assets/images/2022-09-25-KEINE-logo.svg
+logo                      : /assets/images/2022-09-29-KEINE.svg
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ""
 breadcrumbs              : false
