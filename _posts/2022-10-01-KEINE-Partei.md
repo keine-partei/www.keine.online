@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /warum/
-title: Warum KEINE Partei?
+permalink: /keine/
+title: KEINE Partei
 subtitle: 
 author: Oliver Hoffmann
 keywords: Österreich, 2022
@@ -12,6 +12,10 @@ colorlinks: true
 linkcolor: red
 pagenumbering: location=
 ---
-# Warum KEINE Partei?
+# KEINE Partei
 
-Darum.
+KEIN Parteiprogramm:
+
+* KEINE KFZ-Steuer
+* KEINE GIS
+* KEINE Parteienförderung
