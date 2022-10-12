@@ -19,3 +19,6 @@ KEIN Parteiprogramm:
 * KEINE KFZ-Steuer
 * KEINE GIS
 * KEINE Parteienförderung
+* Volle Transparenz
+* Persönlich engagierte Menschen
+* Kompetenz und Unabhängigkeit
